@@ -1,0 +1,9 @@
+
+дек. 15, 2022 12:04:26 AM hw_task3 main
+INFO: The result 7.0 + 5.7 is 12.7
+дек. 15, 2022 12:04:44 AM hw_task3 main
+INFO: The result 72.0 / 65.0 is 1.1076924
+дек. 15, 2022 12:05:10 AM hw_task3 main
+INFO: The result 94.4568 - 74.1234 is 20.333405
+дек. 15, 2022 12:06:54 AM hw_task3 main
+INFO: The result 4.125 * -7.4589 is -30.767962
