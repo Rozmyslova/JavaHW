@@ -9,7 +9,7 @@ import java.util.logging.*;
 
 public class hw_task6 {
 	public static void main(String[] args) {
-	    	    Scanner sc = new Scanner(System.in);
+	    Scanner sc = new Scanner(System.in);
         System.out.print("Enter a length of array  = ");
         int len = sc.nextInt();
         sc.close();
