@@ -23,7 +23,7 @@ public class hw_task12 {
         enqueue(linkList, num);
         System.out.println("Added num to the end : " + linkList);
 
-        System.out.print("Finf the first element = "); 
+        System.out.print("Find the first element = "); 
         System.out.println(dequeue(linkList));
         System.out.println("Delete the first element : " + linkList);
 
